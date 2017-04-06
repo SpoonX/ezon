@@ -1,0 +1,25 @@
+{
+  "name": "ezon",
+  "version": "1.0.0",
+  "description": "An easy-syntax JSON parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SpoonX/ezon.git"
+  },
+  "keywords": [
+    "json",
+    "parser",
+    "object",
+    "language"
+  ],
+  "author": "RWOverdijk <wesley@spoonx.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpoonX/ezon/issues"
+  },
+  "homepage": "https://github.com/SpoonX/ezon#readme"
+}
